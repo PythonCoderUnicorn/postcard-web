@@ -1,24 +1,24 @@
 ---
-title: "Willkommen!"
-image: "herzl.jpg"
+title: "Zane Dax"
+image: "Twitter-profile.png"
 color1: "#5A59A3"
 color2: "#C66060"
 angle: 130
 links:
+  - label: GitHub
+    url: "https://github.com/PythonCoderUnicorn"
   - label: YouTube
     url: "https://youtube.com/"
-  - label: Vimeo
-    url: "https://vimeo.com/"
+  # - label: Vimeo
+  #   url: "https://vimeo.com/"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/StarTrek_Lt"
   - label: Email
     url: "mailto:email@email.com"
 output:
   postcards::onofre
 ---
  
-György Herzl is a filmmaker and computational storyteller based in Leipzig,
-Germany. Their work has been featured at the Festival do Rio, Internationale
-Filmfestspiele Berlin, Kunsthalle Basel, and the New Museum of Contemporary Art
-in New York City. "ГУМ" is their latest project which examines the rise of
-consumerism in post-Soviet republics.
+Zane Dax (She/They) is a Python and R data science enthusiast. Loves #TidyTuesday and learning all things R. Lives in Alberta, Canada with spouse. Has a Bachelors degree in Public Health. 
+
+Very active on Twitter, love Star Trek and science.
