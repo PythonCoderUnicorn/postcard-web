@@ -7,8 +7,8 @@ angle: 130
 links:
   - label: GitHub
     url: "https://github.com/PythonCoderUnicorn"
-  - label: YouTube
-    url: "https://youtube.com/"
+  # - label: YouTube
+  #   url: "https://youtube.com/"
   # - label: Vimeo
   #   url: "https://vimeo.com/"
   - label: Twitter
@@ -21,4 +21,8 @@ output:
  
 Zane Dax (She/They) is a Python and R data science enthusiast. Loves #TidyTuesday and learning all things R. Lives in Alberta, Canada with spouse. Has a Bachelors degree in Public Health. 
 
-Very active on Twitter, love Star Trek and science.
+Very active on Twitter, loves Star Trek and science. 
+
+Everyday is a day for R learning or at least some art.  🌈
+
+
